@@ -12,12 +12,12 @@ from telegram.ext import (
 # ╔══════════════════════════════════════════════════════════════╗
 # ║                    ⚙️  CONFIG ZONE                          ║
 # ╚══════════════════════════════════════════════════════════════╝
-BOT_TOKEN      = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN      = "7870678989:AAEi4k5OrTnMD5Rcd1BWz4xLfMqlFUcgE7M"
 ZEPH_API_KEY   = "ZEPH-4O1YD"
 
-OWNER_ID       = 123456789
-OWNER_USERNAME = "@YourUsername"
-CHANNEL_LINK   = "https://t.me/YourChannel"
+OWNER_ID       = 7302427268
+OWNER_USERNAME = "@l_smoke_ll"
+CHANNEL_LINK   = "https://t.me/unban_service_avel"
 CHANNEL_NAME   = "📢 Official Channel"
 
 # ─── UPI Details ───────────────────────────────────────────────
@@ -254,9 +254,9 @@ async def start(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
             f"🔒 Ye bot *Premium* hai.\n\n"
             f"💎 *Plans:*\n"
             f"┣ 🆓 1 Din Trial  → FREE\n"
-            f"┣ 📅 7 Din        → ₹49  / $0.60\n"
-            f"┣ 📆 30 Din       → ₹149 / $1.80\n"
-            f"┗ ♾️ Lifetime     → ₹499 / $6.00\n\n"
+            f"┣ 📅 7 Din        → ₹500  / $6.60\n"
+            f"┣ 📆 30 Din       → ₹4000 / $50.80\n"
+            f"┗ ♾️ Lifetime     → ₹49999 / $500.00\n\n"
             f"💳 *UPI, GPay, PhonePe*\n"
             f"🪙 *Crypto: BTC, ETH, USDT, TON*\n\n"
             f"👇 Plan chunke subscribe karo!",
