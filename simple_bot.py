@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, CommandHandler, filters, ContextTypes
 
 # ================================
-BOT_TOKEN    = "APNA_BOT_TOKEN"   # @BotFather se lena
+BOT_TOKEN    = "7870678989:AAEi4k5OrTnMD5Rcd1BWz4xLfMqlFUcgE7M"   # @BotFather se lena
 ZEPH_API_KEY = "ZEPH-4O1YD"
 # ================================
 
