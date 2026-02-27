@@ -556,7 +556,7 @@ async def approve_reject(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
                 f"✅ Payment *verify* ho gaya!\n\n"
                 f"🏆 Plan    : *{p['label']}*\n"
                 f"⏳ Expires : *{row[5]}*\n\n"
-                f"🔍 Ab `/lookup` ya `/add` use karo! 🚀",
+                f"🔍 Ab `/lookup` ya `/lookup` use karo! 🚀",
                 parse_mode="Markdown", reply_markup=kb_main()
             )
         except Exception as e:
