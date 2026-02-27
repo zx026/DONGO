@@ -43,7 +43,7 @@ async def get_number(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
             await update.message.reply_text("❌ Nahi mila! ID check karo.")
 
     except Exception as e:
-        await update.message.reply_text(f"❌ Error: {e}")
+        await update.message.reply_text(f"❌ Nahi mila: {e}")
 
 def main():
     print("🤖 Bot chal raha hai...")
